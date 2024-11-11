@@ -10,13 +10,13 @@ pip install requirements.txt
 3. Run the 'app.py' file
 4. Use postman or curl to test the following API endpoints OR run the 'api_tester.py' file after 'app.py' is up and running:
 
-# GET:
+## GET:
 url: "http://127.0.0.1:5000/get"
 
 - Returns a json object with the markdown response formatted as follows:
 {"markdown": "markdown text here"}
 
-# POST:
+## POST:
 url: "http://127.0.0.1:5000/post"
 
 Parameters:

@@ -6,7 +6,7 @@ This API allows potential buyers for our client ABC to access an AI-generated an
 
 1. Clone the repository and navigate to project directory
 2. Install the required packages:
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 4. Run the `app.py` file
 5. Use postman or curl to test the following API endpoints OR run the `api_tester.py` file after `app.py` is up and running:
 
